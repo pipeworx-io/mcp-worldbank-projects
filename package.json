@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-worldbank-projects",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "World Bank Projects & Operations MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "worldbank-projects",
     "gatewaySlug": "worldbank-projects",
-    "sourceHash": "v1-90234fcd6011a4b70851b1eb5807be7b8b045a14f1692dab7ec3b6a73937a07a",
-    "sourceCommit": "98853f34516646cb7c4c1460f09249b262c0269e"
+    "sourceHash": "v1-7c3ca1ea388317352bbdd03f0d2a9ba8f4198eee4fe76efe03dc96b9040637a7",
+    "sourceCommit": "78b905fa3a6880dfb85c79150f4bffe8cf50ef00"
   }
 }
